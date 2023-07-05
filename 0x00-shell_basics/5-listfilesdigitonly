@@ -1,2 +1,2 @@
-#!/bin/bassh
-ls -na
+#!/bin/bash
+ls -n
